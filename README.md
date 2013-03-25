@@ -29,3 +29,8 @@ sudo update-initramfs -u
 sudo apt-get install nautilus-open-terminal
 killall nautilus
 ```
+###Install Chrome
+###Install bunch of packages...
+```
+sudo apt-get install emacs
+```
