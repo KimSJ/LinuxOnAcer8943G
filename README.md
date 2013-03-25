@@ -32,5 +32,6 @@ killall nautilus
 ###Install Chrome
 ###Install bunch of packages...
 ```
-sudo apt-get install emacs
+sudo apt-get install emacs bridge-utils
 ```
+###Bridging the RaspberryPi
